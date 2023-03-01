@@ -4,3 +4,4 @@ en:
     shadowban_enabled: "Enable shadowban"
     shadowban_users: "Users subject to the shadowban"
     shadowban_show_to_staff: "Show shadowbanned posts to staff"
+    shadowban_posts: "Allow moderators to shadowban individual posts?"

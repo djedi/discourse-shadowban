@@ -8,3 +8,6 @@ plugins:
   shadowban_show_to_staff:
     default: false
     client: true
+  shadowban_posts:
+    default: true
+    client: true
